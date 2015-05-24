@@ -1,0 +1,10 @@
+{
+  "name": "yeomantest",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "~3.3.1",
+    "modernizr": "~2.8.1",
+    "fontawesome": "~4.3.0",
+    "twitch-stream-status": "*"
+  }
+}
